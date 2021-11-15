@@ -21,7 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-#include <Windows.h>
+#include <windows.h>
 #include <tchar.h> //For _tmain().
 
 #define MAX_DATA_LENGTH 8192              //Max length of a registry value
