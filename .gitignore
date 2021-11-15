@@ -1,9 +1,2 @@
-.idea/
-msvc/*.sdf
-msvc/*.suo
-msvc/*.user
-msvc/*.opensdf
-msvc/.vs/
-msvc/build/
-src/*.aps
-src/gitversion.h
+*.o
+*.exe
