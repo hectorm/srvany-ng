@@ -27,4 +27,4 @@ $(EXEC): $(EXEC_UNSTRIPPED)
 
 .PHONY: clean
 clean:
-	rm -f $(OBJS) $(EXEC)
+	rm -f $(OBJS) $(EXEC) $(EXEC_UNSTRIPPED)
